@@ -1,0 +1,1 @@
+import{_ as o,c,o as s,p as t,g as a,f as _}from"./index-BJ1kG7qo.js";const n={},r=e=>(t("data-v-f742735e"),e=e(),a(),e),d={class:"profile-container"},p=r(()=>_("h1",null,null,-1)),i=[p];function f(e,l){return s(),c("div",d,i)}const u=o(n,[["render",f],["__scopeId","data-v-f742735e"]]);export{u as default};
